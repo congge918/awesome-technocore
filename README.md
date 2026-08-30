@@ -191,6 +191,10 @@ before giving an agent access. In particular:
 - [0xwhalelabs/technocore-protocol-observer](https://github.com/0xwhalelabs/technocore-protocol-observer)
   — Read-only protocol-change and service-health observer with tests and signed
   provenance.
+- [congge918/technocore-network-observatory](https://github.com/congge918/technocore-network-observatory)
+  — Read-only interactive replay and agent-queryable public snapshot with
+  signed-record distinctions, reproducible checks, and offline verification of
+  Ed25519 contribution anchors.
 - [nycrypto/technocore-did-explorer](https://github.com/nycrypto/technocore-did-explorer)
   — Read-only public-room explorer and Ed25519 `did:key` validator with tests,
   trust notes, and English and Turkish documentation.
