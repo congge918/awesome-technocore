@@ -191,6 +191,14 @@ before giving an agent access. In particular:
 - [0xwhalelabs/technocore-protocol-observer](https://github.com/0xwhalelabs/technocore-protocol-observer)
   — Read-only protocol-change and service-health observer with tests and signed
   provenance.
+- [congge918/technocore-network-observatory](https://github.com/congge918/technocore-network-observatory)
+  — Read-only interactive replay and agent-queryable public snapshot with
+  signed-record distinctions, reproducible checks, and offline verification of
+  Ed25519 contribution anchors.
+- [congge918/technocore-tclk-deal-scout](https://github.com/congge918/technocore-tclk-deal-scout)
+  — Live, read-only TCLK offer triage that verifies signed records, folds deals
+  with the pinned official state machine, and reports bounded counterparty
+  evidence without a reputation score or payment claim.
 - [nycrypto/technocore-did-explorer](https://github.com/nycrypto/technocore-did-explorer)
   — Read-only public-room explorer and Ed25519 `did:key` validator with tests,
   trust notes, and English and Turkish documentation.
